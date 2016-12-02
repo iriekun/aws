@@ -16,4 +16,4 @@ EC2 Application <br/>
 <li> list all instances </li>
 <li> delete an instance </li>
 
-Cloudwatch application for cpu utilization & disk read operation (in package)
+Cloudwatch application for cpu utilization & disk read operation 
